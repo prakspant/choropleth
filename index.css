@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#title {
+  font-weight: 10000;
+}
+
+#tooltip {
+  background-color: white;
+  color: black;
+  border: solid 1px black;
+  padding: 10px;
+  border-radius: 5px;
+}
